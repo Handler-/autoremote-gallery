@@ -1,0 +1,1 @@
+FTP -v -i -s:C:\Users\Dave\Documents\BatchFiles\autoremote_send_photos-script.txt

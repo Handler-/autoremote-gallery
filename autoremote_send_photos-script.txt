@@ -1,0 +1,10 @@
+open ftp.handlersspot.net
+mrbiggz6
+$ky66Open
+!:--- FTP commands below here ---
+lcd C:\Users\Dave\AutoRemote-EventGhost
+cd  public_html/test
+binary
+mput "*.*"
+disconnect
+bye
